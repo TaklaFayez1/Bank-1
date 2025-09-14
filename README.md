@@ -1,0 +1,1 @@
+[Bank 1]**             | Initial version implementing core banking client management functionalities.                                    | Modular code with structs/enums, file-based data persistence, clean CLI output. |
